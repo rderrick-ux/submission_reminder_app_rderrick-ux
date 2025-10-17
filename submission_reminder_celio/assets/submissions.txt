@@ -1,0 +1,10 @@
+student, assignment, submission status
+Celio Derrick, Shell Navigation, not submitted
+Steph Curry, Git, submitted
+Kevin Durant, Shell Navigation, not submitted
+LeBron James, Shell Basics, submitted
+Kai Cenat, Shell Navigation, submitted
+Cristiano Ronaldo, Shell Navigation, not submitted
+Lionel Messi, Git, not submitted
+Imena Kizito, Shell Navigation, not submitted
+Flight Reacts, Shell Basics, submitted
