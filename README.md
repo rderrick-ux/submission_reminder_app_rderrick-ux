@@ -15,15 +15,5 @@ Run create_environment.sh and put your name as needed. It will generate a list o
 
 Usage
 
-Startup.sh to verify pending submissions with the help of bash
-Make changes with copilot_shell_script.sh to change assignment name.
-
-Git Workflow
-
-Development: feature/setup
-Final version: main branch
-
-It only commits to main the following files:
-create_environment.sh
-copilot_shell_script.sh
-README.md
+Startup.sh to verify pending submissions.
+Make changes with copilot_shell_script.sh to change assignment name to check the people that have not submitted the new assignment name.
